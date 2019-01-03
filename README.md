@@ -1,7 +1,8 @@
 # predict_air_pollution_with_lstm
 This module created a complete workflow to use LSTM/GRU to predict air pollution based on various kinds of sensory data.
-The core code module include four parts
 
+
+The core code module include four parts
 1. data.py:
   a.helps load in data from .csv
   b.preprocess data(normalize numerical data and convert categorical data into one-hot encoding)
